@@ -3,7 +3,9 @@
 	<info>
 		<name>Nezumi</name>
 		<description>Nezumi Race from Handbook to Kamigawa</description>
-		
+		<update version="0.0.1">
+			<file name="Race-nezumi.xml" url="https://github.com/MullinShetland/Aurora/blob/main/Race-Nezumi.xml" />
+		</update>
 	</info>
 
 	<element name="Nezumi" type="Race" source="Handbook to Kamigawa" id="ID_WOTC_PSZ_RACE_Nezumi">
