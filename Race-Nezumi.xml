@@ -86,6 +86,7 @@
 			<grant type="Language" id="ID_LANGUAGE_COMMON" />
 			<grant type="Language" id="ID_LANGUAGE_GOBLIN" />
 			<select type="Sub Race" name="Nezumi Subrace" supports="Plane Shift Nezumi Subrace" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_ANIMALHANDLING" />
 		</rules>
 	</element>
 
@@ -110,7 +111,7 @@
 				</b>Your homelands are rife with rot and decay. Your character's survival indicates a resistance to these conditions. You have resistance to poison and advantage on saving throws against it. At 3rd level, you gain resistance to necrotic damage and advantage on saving throws against disease.
 			</p>
 		</description>
-		<sheet display="false" />
+		<sheet display="true" />
 		<rules>
 			<stat name="constitution" value="1" />
 			
@@ -130,4 +131,3 @@
 		</rules>
 	</element>
 </elements>
-
