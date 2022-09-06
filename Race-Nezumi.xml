@@ -84,7 +84,7 @@
 			<grant type="Size" id="ID_SIZE_MEDIUM" />
 			<grant type="Vision" id="ID_VISION_DARKVISION" />
 			<grant type="Language" id="ID_LANGUAGE_COMMON" />
-			<grant type="Language" id="ID_LANGUAGE_GOBLIN" />
+			<grant type="Language" id="ID_LANGUAGE_HALFLING" />
 			<select type="Sub Race" name="Nezumi Subrace" supports="Plane Shift Nezumi Subrace" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_ANIMALHANDLING" />
 		</rules>
