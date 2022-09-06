@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
 		<name>Nezumi</name>
@@ -87,6 +87,8 @@
 			<grant type="Language" id="ID_LANGUAGE_HALFLING" />
 			<select type="Sub Race" name="Nezumi Subrace" supports="Plane Shift Nezumi Subrace" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_ANIMALHANDLING" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_PERCEPTION" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_STEALTH" />
 		</rules>
 	</element>
 
@@ -131,3 +133,4 @@
 		</rules>
 	</element>
 </elements>
+
